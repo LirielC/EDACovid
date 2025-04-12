@@ -19,4 +19,4 @@ Durante o período analisado, com base nas taxas de mortalidade por milhão, obs
 ### Gráfico:
 Aqui está o gráfico da comparação de mortalidade por milhão entre os dois países, destacando as diferenças nas taxas de mortalidade.
 
-![Gráfico de Mortalidade por Milhão](https://imgur.com/a/S3BsPUT)
+![Gráfico de Mortalidade por Milhão](https://i.imgur.com/d2vnOcv.png)
